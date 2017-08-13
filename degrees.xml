@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<?xml-stylesheet type="text/xsl" href="degrees.xsl"?>
+
+<degrees> 
+
+  
+   <degree> 
+    <bp>BS</bp> 
+    <dp>PhD</dp> 
+    <id>ee4b240f7f4f4e1a010c986053a5394b</id> 
+	<letter>A</letter> 
+    <link>http://www.kelley.iu.edu/accounting/</link> 
+    <mp>MSA,MBA</mp> 
+	<name>Accounting</name> 
+    <school>Kelley School of Business</school> 
+  </degree> 
+  
+   <degree> 
+    <bp>BA</bp> 
+    <dp>PhD</dp> 
+    <id>f2021ac97f4f4e1a010c9860cbd875eb</id> 
+	<letter>A</letter> 
+    <link>http://www.indiana.edu/~afroamer/</link> 
+    <mp>MA</mp> 
+	<name>African American and African Diaspora Studies</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree> 
+  
+  <degree> 
+    <bp>BA</bp> 
+    <dp></dp> 
+    <id>f204dc497f4f4e1a010c986003341de0</id> 
+	<letter>A</letter> 
+    <link>http://www.indiana.edu/~soc/ug_degree.html#Afro</link> 
+    <mp></mp> 
+	<name>African American Studies and Sociology</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree> 
+  
+    <degree> 
+    <bp>BA</bp> 
+    <dp></dp> 
+    <id>afbe76c6814f4e1a3c572554ef48d7d8</id> 
+	<letter>A</letter> 
+    <link>http://www.indiana.edu/~afrilang/</link> 
+    <mp></mp> 
+	<name>African Languages</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree> 
+   
+    <degree> 
+    <bp>Minor</bp> 
+    <dp>Minor</dp> 
+    <id>f206331d7f4f4e1a010c9860532db63c</id> 
+	<letter>A</letter> 
+    <link>http://www.indiana.edu/~afrist/</link> 
+    <mp></mp> 
+	<name>African Studies</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree> 
+  
+      <degree> 
+    <bp>BS</bp> 
+    <dp></dp> 
+    <id>f21d76497f4f4e1a010c98604a1e31ca</id> 
+	<letter>A</letter> 
+    <link>http://design.iub.edu/rdmg/</link> 
+    <mp>MS</mp> 
+	<name>Apparel Merchandising</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree> 
+  
+    <degree> 
+    <bp></bp> 
+    <dp></dp> 
+    <id>fc8064647f4f4e1a010c98608157d29a</id> 
+	<letter>A</letter> 
+    <link></link> 
+    <mp></mp> 
+	<name>Art History (see History of Art)</name> 
+    <school></school> 
+  </degree>
+
+<degree> 
+    <bp>Cert</bp> 
+    <dp>Minor</dp> 
+    <id>f224de117f4f4e1a010c98604a1fa133</id> 
+	<letter>A</letter> 
+    <link>https://spea.indiana.edu/masters/degrees-certificates/arts-administration/index.html</link> 
+    <mp>MA</mp> 
+	<name>Arts Administration</name> 
+    <school>School of Public and Environmental Affairs</school> 
+  </degree>
+  
+<degree> 
+    <bp>BS</bp> 
+    <dp></dp> 
+    <id>c76555e7814f4e1a2bc8b2974b208e62</id> 
+	<letter>A</letter> 
+    <link>https://spea.indiana.edu/undergraduate/majors-minors-certificates/arts-management.html</link> 
+    <mp></mp> 
+	<name>Arts Administration</name> 
+    <school>School of Public and Environmental Affairs</school> 
+  </degree>  
+  
+  <degree> 
+    <bp>Minor</bp> 
+    <dp></dp> 
+    <id>f226678e7f4f4e1a010c9860941378e4</id> 
+	<letter>A</letter> 
+    <link>http://www.indiana.edu/~aasp/</link> 
+    <mp></mp> 
+	<name>Asian American Studies</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree>
+  
+  <degree> 
+    <bp>BS</bp> 
+    <dp>PhD</dp> 
+    <id>f22794ed7f4f4e1a010c9860cc878f43</id> 
+	<letter>A</letter> 
+    <link>http://www.astro.indiana.edu/</link> 
+    <mp>MA</mp> 
+	<name>Astronomy and Astrophysics</name> 
+    <school>College of Arts and Sciences</school> 
+  </degree>
+  
+
+</degrees>
